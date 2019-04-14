@@ -1,4 +1,4 @@
-# rows-from-array [![Build Status](https://travis-ci.com/hamxabaig/rows-from-array.svg?branch=master)](https://travis-ci.com/hamxabaig/cols-from-array)
+# cols-from-array [![Build Status](https://travis-ci.com/hamxabaig/cols-from-array.svg?branch=master)](https://travis-ci.com/hamxabaig/cols-from-array)
 
 > Create cols from an array with no bullshit! :sunglasses:
 
